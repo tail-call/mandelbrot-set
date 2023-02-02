@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "watch": "esbuild index.ts --outfile=index.js --watch"
+  },
+  "dependencies": {
+    "esbuild": "^0.17.5"
+  }
+}
